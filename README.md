@@ -2,8 +2,8 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Varsh552Abhi&style=for-the-badge&color=00ffff" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Varsh552Abhi?style=for-the-badge&color=00ffff" alt="Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=Abhishek123691&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Abhishek123691?style=for-the-badge&color=00ffff" alt="Followers"/>
     <img src="https://img.shields.io/badge/Status-Learning%20to%20Code-00ffff?style=for-the-badge" alt="Status"/>
     <img src="https://img.shields.io/badge/Level-Beginner-00ffff?style=for-the-badge" alt="Level"/>
 </div>
@@ -23,34 +23,34 @@
 ### :zap: GitHub Stats 📈
 
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varsh552Abhi&theme=dracula" width="100%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek123691&theme=dracula" width="100%" />
 </p>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Varsh552Abhi/Varsh552Abhi"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Varsh552Abhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00ffff&bg_color=0d1117" alt="Abhishek's GitHub Stats" width="400" />
+      <a href="https://github.com/Abhishek123691/Abhishek123691"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek123691&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00ffff&bg_color=0d1117" alt="Abhishek's GitHub Stats" width="400" />
       </a>
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Varsh552Abhi&theme=radical&hide_border=true" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek123691&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varsh552Abhi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek123691&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div> 
 
 <p align="center">
   <table style="width: 1000%; border: none; padding: 0; margin: 0;">
     <tr>
       <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsh552Abhi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="400%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek123691&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="400%">
       </td>
       <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varsh552Abhi&theme=dracula&hide_border=true" alt="Language Pie Chart" width="400%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek123691&theme=dracula&hide_border=true" alt="Language Pie Chart" width="400%">
       </td>
     </tr>
   </table>
@@ -59,7 +59,7 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varsh552Abhi&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek123691&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 ## 🎯 Expertise Areas
 
@@ -143,7 +143,7 @@ Here's a cool animation of my GitHub activity:
 </div>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/Varsh552Abhi/count.svg" alt="Profile Views"> 
+    <img src="https://profile-counter.glitch.me/Abhishek123691/count.svg" alt="Profile Views"> 
     <br>
     © 2025 Abhishek Sharma
 </div>
